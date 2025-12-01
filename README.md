@@ -4,7 +4,7 @@
 
 ✨ *Cook Smart. Waste Less. Eat Better.* ✨  
 >
-> ![CookMate Banner](images/banner.png)
+> ![CookMate Banner](images/banner.gif)
 >
 
 </div>
@@ -176,3 +176,4 @@ Email: kanishkawani52@gmail.com
 🍳 Crafted with passion by Kanishka Wani
 
 </div> ```
+
