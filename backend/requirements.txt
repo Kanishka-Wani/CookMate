@@ -12,6 +12,7 @@ pandas
 matplotlib
 seaborn
 joblib
+PyJWT
 
 # MySQL Database
 mysqlclient
