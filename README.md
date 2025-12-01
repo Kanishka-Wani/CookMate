@@ -76,41 +76,6 @@ A perfect tool for:
 
 ---
 
-## 🗂️ Project Structure
-
-CookMate/
-
-│
-
-├── backend/
-
-│ ├── cookmate/
-
-│ ├── api/
-
-│ ├── ml_model/
-
-│ ├── db.sqlite3
-
-│ └── manage.py
-
-│
-├── frontend/
-
-│ ├── src/
-
-│ ├── public/
-
-│ └── package.json
-
-│
-├── images/
-
-└── README.md
-
-
----
-
 ## 🧩 Installation & Setup
 
 ### 1️⃣ Clone the repository  
@@ -168,12 +133,18 @@ Email: kanishkawani52@gmail.com
 🎨 Icons & UI inspirations from open-source community
 
 ---
+
 <div align="center">
+  
 ---
+
 “Good food is the foundation of genuine happiness.”
 — Auguste Escoffier
+
 ---
+
 🍳 Crafted with passion by Kanishka Wani
 
 </div> ```
+
 
