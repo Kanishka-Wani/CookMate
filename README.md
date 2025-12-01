@@ -132,7 +132,7 @@ Email: kanishkawani52@gmail.com
 
 🎨 Icons & UI inspirations from open-source community
 
----
+
 
 <div align="center">
   
@@ -146,6 +146,7 @@ Email: kanishkawani52@gmail.com
 🍳 Crafted with passion by Kanishka Wani
 
 </div> ```
+
 
 
 
