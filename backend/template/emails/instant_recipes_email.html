@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; max-width: 600px; margin: 0 auto; padding: 20px; }
+        .recipe { margin: 20px 0; padding: 15px; border: 1px solid #e0e0e0; border-radius: 8px; background: #f9f9f9; }
+        .recipe-title { color: #2c5530; font-size: 18px; font-weight: bold; margin-bottom: 10px; }
+        .recipe-meta { color: #666; font-size: 14px; margin-bottom: 10px; }
+    </style>
+</head>
+<body>
+    <h2>Welcome to COOKMATE! 🎉</h2>
+    <p>Here are your 5 random recipes from our collection:</p>
+    
+    {% for recipe in recipes %}
+    <div class="recipe">
+        <div class="recipe-title">{{ recipe.title }}</div>
+        <div class="recipe-meta">
+            ⏱️ {{ recipe.cooking_time }} mins | 🍽️ {{ recipe.serving_size }} servings | 
+            📊 {{ recipe.difficulty }} | 📍 {{ recipe.cuisine }} | ⭐ {{ recipe.rating }}/5
+        </div>
+        <p><strong>Description:</strong> {{ recipe.description }}</p>
+        
+        <p><strong>Ingredients:</strong></p>
+        <ul>
+            {% for ingredient in recipe.ingredients_list %}
+            <li>{{ ingredient }}</li>
+            {% endfor %}
+        </ul>
+        
+        <p><strong>Instructions:</strong></p>
+        <ol>
+            {% for step in recipe.instructions_list|slice:":5" %}
+            <li>{{ step }}</li>
+            {% endfor %}
+        </ol>
+        
+        <div class="recipe-meta">
+            <strong>Meal Type:</strong> {{ recipe.meal_type }} • 
+            <strong>Diet:</strong> {{ recipe.diet_type }}
+        </div>
+    </div>
+    {% endfor %}
+    
+    <p>Happy cooking! 👨‍🍳</p>
+</body>
+</html>

@@ -1,0 +1,1034 @@
+[
+  {
+    "user_ingredients": [
+      "cashew",
+      "coriander",
+      "cream",
+      "cumin",
+      "cumin seed",
+      "garam masala",
+      "ghee"
+    ],
+    "expected_recipe": "Kaju Curry",
+    "actual_recipe_ingredients": [
+      "cashew",
+      "coriander",
+      "cream",
+      "cumin",
+      "cumin seed",
+      "garam masala",
+      "ghee",
+      "ginger-garlic paste",
+      "oil",
+      "onion",
+      "red chili powder",
+      "salt",
+      "tomato",
+      "turmeric",
+      "turmeric powder"
+    ]
+  },
+  {
+    "user_ingredients": [
+      "cashew",
+      "coriander",
+      "cream",
+      "cumin",
+      "cumin seed"
+    ],
+    "expected_recipe": "Kaju Curry",
+    "actual_recipe_ingredients": [
+      "cashew",
+      "coriander",
+      "cream",
+      "cumin",
+      "cumin seed",
+      "garam masala",
+      "ghee",
+      "ginger-garlic paste",
+      "oil",
+      "onion",
+      "red chili powder",
+      "salt",
+      "tomato",
+      "turmeric",
+      "turmeric powder"
+    ]
+  },
+  {
+    "user_ingredients": [
+      "cashew",
+      "cream",
+      "cumin seed",
+      "ghee",
+      "oil",
+      "red chili powder",
+      "tomato",
+      "turmeric powder"
+    ],
+    "expected_recipe": "Kaju Curry",
+    "actual_recipe_ingredients": [
+      "cashew",
+      "coriander",
+      "cream",
+      "cumin",
+      "cumin seed",
+      "garam masala",
+      "ghee",
+      "ginger-garlic paste",
+      "oil",
+      "onion",
+      "red chili powder",
+      "salt",
+      "tomato",
+      "turmeric",
+      "turmeric powder"
+    ]
+  },
+  {
+    "user_ingredients": [
+      "cardamom",
+      "milk",
+      "nut"
+    ],
+    "expected_recipe": "Rice Kheer",
+    "actual_recipe_ingredients": [
+      "cardamom",
+      "milk",
+      "nut",
+      "raisin",
+      "rice",
+      "saffron",
+      "sugar"
+    ]
+  },
+  {
+    "user_ingredients": [
+      "cardamom",
+      "milk"
+    ],
+    "expected_recipe": "Rice Kheer",
+    "actual_recipe_ingredients": [
+      "cardamom",
+      "milk",
+      "nut",
+      "raisin",
+      "rice",
+      "saffron",
+      "sugar"
+    ]
+  },
+  {
+    "user_ingredients": [
+      "cardamom",
+      "nut",
+      "rice",
+      "sugar"
+    ],
+    "expected_recipe": "Rice Kheer",
+    "actual_recipe_ingredients": [
+      "cardamom",
+      "milk",
+      "nut",
+      "raisin",
+      "rice",
+      "saffron",
+      "sugar"
+    ]
+  },
+  {
+    "user_ingredients": [
+      "chickpea",
+      "garam masala"
+    ],
+    "expected_recipe": "Chana Masala",
+    "actual_recipe_ingredients": [
+      "chickpea",
+      "garam masala",
+      "onion",
+      "tomato",
+      "turmeric"
+    ]
+  },
+  {
+    "user_ingredients": [
+      "chickpea",
+      "onion",
+      "turmeric"
+    ],
+    "expected_recipe": "Chana Masala",
+    "actual_recipe_ingredients": [
+      "chickpea",
+      "garam masala",
+      "onion",
+      "tomato",
+      "turmeric"
+    ]
+  },
+  {
+    "user_ingredients": [
+      "cream",
+      "garam masala",
+      "garlic"
+    ],
+    "expected_recipe": "Palak Paneer",
+    "actual_recipe_ingredients": [
+      "cream",
+      "garam masala",
+      "garlic",
+      "onion",
+      "paneer",
+      "spinach"
+    ]
+  },
+  {
+    "user_ingredients": [
+      "cream",
+      "garam masala"
+    ],
+    "expected_recipe": "Palak Paneer",
+    "actual_recipe_ingredients": [
+      "cream",
+      "garam masala",
+      "garlic",
+      "onion",
+      "paneer",
+      "spinach"
+    ]
+  },
+  {
+    "user_ingredients": [
+      "cream",
+      "garlic",
+      "paneer"
+    ],
+    "expected_recipe": "Palak Paneer",
+    "actual_recipe_ingredients": [
+      "cream",
+      "garam masala",
+      "garlic",
+      "onion",
+      "paneer",
+      "spinach"
+    ]
+  },
+  {
+    "user_ingredients": [
+      "basmati rice",
+      "biriyani masala"
+    ],
+    "expected_recipe": "Vegetable Biryani",
+    "actual_recipe_ingredients": [
+      "basmati rice",
+      "biriyani masala",
+      "mixed vegetabl",
+      "saffron",
+      "yogurt"
+    ]
+  },
+  {
+    "user_ingredients": [
+      "basmati rice",
+      "mixed vegetabl",
+      "yogurt"
+    ],
+    "expected_recipe": "Vegetable Biryani",
+    "actual_recipe_ingredients": [
+      "basmati rice",
+      "biriyani masala",
+      "mixed vegetabl",
+      "saffron",
+      "yogurt"
+    ]
+  },
+  {
+    "user_ingredients": [
+      "curry leav",
+      "lentil"
+    ],
+    "expected_recipe": "Masala Dosa",
+    "actual_recipe_ingredients": [
+      "curry leav",
+      "lentil",
+      "mustard seed",
+      "potato",
+      "rice"
+    ]
+  },
+  {
+    "user_ingredients": [
+      "curry leav",
+      "mustard seed",
+      "rice"
+    ],
+    "expected_recipe": "Masala Dosa",
+    "actual_recipe_ingredients": [
+      "curry leav",
+      "lentil",
+      "mustard seed",
+      "potato",
+      "rice"
+    ]
+  },
+  {
+    "user_ingredients": [
+      "bajra flour",
+      "cilantro",
+      "jowar flour"
+    ],
+    "expected_recipe": "Maharashtrian Thalipeeth",
+    "actual_recipe_ingredients": [
+      "bajra flour",
+      "cilantro",
+      "jowar flour",
+      "onion",
+      "ragi flour",
+      "spic"
+    ]
+  },
+  {
+    "user_ingredients": [
+      "bajra flour",
+      "cilantro"
+    ],
+    "expected_recipe": "Maharashtrian Thalipeeth",
+    "actual_recipe_ingredients": [
+      "bajra flour",
+      "cilantro",
+      "jowar flour",
+      "onion",
+      "ragi flour",
+      "spic"
+    ]
+  },
+  {
+    "user_ingredients": [
+      "bajra flour",
+      "jowar flour",
+      "ragi flour"
+    ],
+    "expected_recipe": "Maharashtrian Thalipeeth",
+    "actual_recipe_ingredients": [
+      "bajra flour",
+      "cilantro",
+      "jowar flour",
+      "onion",
+      "ragi flour",
+      "spic"
+    ]
+  },
+  {
+    "user_ingredients": [
+      "besan",
+      "chili",
+      "curry leav",
+      "fruit salt",
+      "green chili",
+      "lemon juice"
+    ],
+    "expected_recipe": "Gujarati Khaman Dhokla",
+    "actual_recipe_ingredients": [
+      "besan",
+      "chili",
+      "curry leav",
+      "fruit salt",
+      "green chili",
+      "lemon juice",
+      "mustard seed",
+      "oil",
+      "salt",
+      "sugar",
+      "turmeric",
+      "yogurt"
+    ]
+  },
+  {
+    "user_ingredients": [
+      "besan",
+      "chili",
+      "curry leav",
+      "fruit salt"
+    ],
+    "expected_recipe": "Gujarati Khaman Dhokla",
+    "actual_recipe_ingredients": [
+      "besan",
+      "chili",
+      "curry leav",
+      "fruit salt",
+      "green chili",
+      "lemon juice",
+      "mustard seed",
+      "oil",
+      "salt",
+      "sugar",
+      "turmeric",
+      "yogurt"
+    ]
+  },
+  {
+    "user_ingredients": [
+      "besan",
+      "curry leav",
+      "green chili",
+      "mustard seed",
+      "salt",
+      "turmeric"
+    ],
+    "expected_recipe": "Gujarati Khaman Dhokla",
+    "actual_recipe_ingredients": [
+      "besan",
+      "chili",
+      "curry leav",
+      "fruit salt",
+      "green chili",
+      "lemon juice",
+      "mustard seed",
+      "oil",
+      "salt",
+      "sugar",
+      "turmeric",
+      "yogurt"
+    ]
+  },
+  {
+    "user_ingredients": [
+      "coriander leav",
+      "curry leav",
+      "green chili",
+      "lemon",
+      "mustard seed",
+      "oil"
+    ],
+    "expected_recipe": "Poha",
+    "actual_recipe_ingredients": [
+      "coriander leav",
+      "curry leav",
+      "green chili",
+      "lemon",
+      "mustard seed",
+      "oil",
+      "onion",
+      "peanut",
+      "poha",
+      "potato",
+      "salt",
+      "sugar",
+      "turmeric"
+    ]
+  },
+  {
+    "user_ingredients": [
+      "coriander leav",
+      "curry leav",
+      "green chili",
+      "lemon"
+    ],
+    "expected_recipe": "Poha",
+    "actual_recipe_ingredients": [
+      "coriander leav",
+      "curry leav",
+      "green chili",
+      "lemon",
+      "mustard seed",
+      "oil",
+      "onion",
+      "peanut",
+      "poha",
+      "potato",
+      "salt",
+      "sugar",
+      "turmeric"
+    ]
+  },
+  {
+    "user_ingredients": [
+      "coriander leav",
+      "green chili",
+      "mustard seed",
+      "onion",
+      "poha",
+      "salt",
+      "turmeric"
+    ],
+    "expected_recipe": "Poha",
+    "actual_recipe_ingredients": [
+      "coriander leav",
+      "curry leav",
+      "green chili",
+      "lemon",
+      "mustard seed",
+      "oil",
+      "onion",
+      "peanut",
+      "poha",
+      "potato",
+      "salt",
+      "sugar",
+      "turmeric"
+    ]
+  },
+  {
+    "user_ingredients": [
+      "fenugreek seed",
+      "idli rice"
+    ],
+    "expected_recipe": "Soft Idli",
+    "actual_recipe_ingredients": [
+      "fenugreek seed",
+      "idli rice",
+      "salt",
+      "urad dal"
+    ]
+  },
+  {
+    "user_ingredients": [
+      "fenugreek seed",
+      "salt"
+    ],
+    "expected_recipe": "Soft Idli",
+    "actual_recipe_ingredients": [
+      "fenugreek seed",
+      "idli rice",
+      "salt",
+      "urad dal"
+    ]
+  },
+  {
+    "user_ingredients": [
+      "asafoetida",
+      "bottle gourd",
+      "coriander leav",
+      "curry leav",
+      "drumstick",
+      "jaggery",
+      "mustard seed"
+    ],
+    "expected_recipe": "South Indian Sambhar",
+    "actual_recipe_ingredients": [
+      "asafoetida",
+      "bottle gourd",
+      "coriander leav",
+      "curry leav",
+      "drumstick",
+      "jaggery",
+      "mustard seed",
+      "oil",
+      "onion",
+      "salt",
+      "sambar powder",
+      "tamarind",
+      "toor dal",
+      "turmeric",
+      "vegetabl"
+    ]
+  },
+  {
+    "user_ingredients": [
+      "asafoetida",
+      "bottle gourd",
+      "coriander leav",
+      "curry leav",
+      "drumstick"
+    ],
+    "expected_recipe": "South Indian Sambhar",
+    "actual_recipe_ingredients": [
+      "asafoetida",
+      "bottle gourd",
+      "coriander leav",
+      "curry leav",
+      "drumstick",
+      "jaggery",
+      "mustard seed",
+      "oil",
+      "onion",
+      "salt",
+      "sambar powder",
+      "tamarind",
+      "toor dal",
+      "turmeric",
+      "vegetabl"
+    ]
+  },
+  {
+    "user_ingredients": [
+      "asafoetida",
+      "coriander leav",
+      "drumstick",
+      "mustard seed",
+      "onion",
+      "sambar powder",
+      "toor dal",
+      "vegetabl"
+    ],
+    "expected_recipe": "South Indian Sambhar",
+    "actual_recipe_ingredients": [
+      "asafoetida",
+      "bottle gourd",
+      "coriander leav",
+      "curry leav",
+      "drumstick",
+      "jaggery",
+      "mustard seed",
+      "oil",
+      "onion",
+      "salt",
+      "sambar powder",
+      "tamarind",
+      "toor dal",
+      "turmeric",
+      "vegetabl"
+    ]
+  },
+  {
+    "user_ingredients": [
+      "ajwain",
+      "amchur",
+      "boiled potato",
+      "coriander leav",
+      "garam masala",
+      "ghee"
+    ],
+    "expected_recipe": "Aloo Paratha",
+    "actual_recipe_ingredients": [
+      "ajwain",
+      "amchur",
+      "boiled potato",
+      "coriander leav",
+      "garam masala",
+      "ghee",
+      "green chili",
+      "green chilly",
+      "potato",
+      "salt",
+      "spic",
+      "wheat flour",
+      "whole wheat flour"
+    ]
+  },
+  {
+    "user_ingredients": [
+      "ajwain",
+      "amchur",
+      "boiled potato",
+      "coriander leav"
+    ],
+    "expected_recipe": "Aloo Paratha",
+    "actual_recipe_ingredients": [
+      "ajwain",
+      "amchur",
+      "boiled potato",
+      "coriander leav",
+      "garam masala",
+      "ghee",
+      "green chili",
+      "green chilly",
+      "potato",
+      "salt",
+      "spic",
+      "wheat flour",
+      "whole wheat flour"
+    ]
+  },
+  {
+    "user_ingredients": [
+      "ajwain",
+      "boiled potato",
+      "garam masala",
+      "green chili",
+      "potato",
+      "spic",
+      "whole wheat flour"
+    ],
+    "expected_recipe": "Aloo Paratha",
+    "actual_recipe_ingredients": [
+      "ajwain",
+      "amchur",
+      "boiled potato",
+      "coriander leav",
+      "garam masala",
+      "ghee",
+      "green chili",
+      "green chilly",
+      "potato",
+      "salt",
+      "spic",
+      "wheat flour",
+      "whole wheat flour"
+    ]
+  },
+  {
+    "user_ingredients": [
+      "black pepper",
+      "cardamom",
+      "cinnamon",
+      "clov"
+    ],
+    "expected_recipe": "Masala Chai",
+    "actual_recipe_ingredients": [
+      "black pepper",
+      "cardamom",
+      "cinnamon",
+      "clov",
+      "ginger",
+      "green cardamom",
+      "milk",
+      "sugar",
+      "tea leav"
+    ]
+  },
+  {
+    "user_ingredients": [
+      "black pepper",
+      "cardamom",
+      "cinnamon"
+    ],
+    "expected_recipe": "Masala Chai",
+    "actual_recipe_ingredients": [
+      "black pepper",
+      "cardamom",
+      "cinnamon",
+      "clov",
+      "ginger",
+      "green cardamom",
+      "milk",
+      "sugar",
+      "tea leav"
+    ]
+  },
+  {
+    "user_ingredients": [
+      "black pepper",
+      "cinnamon",
+      "ginger",
+      "milk",
+      "tea leav"
+    ],
+    "expected_recipe": "Masala Chai",
+    "actual_recipe_ingredients": [
+      "black pepper",
+      "cardamom",
+      "cinnamon",
+      "clov",
+      "ginger",
+      "green cardamom",
+      "milk",
+      "sugar",
+      "tea leav"
+    ]
+  },
+  {
+    "user_ingredients": [
+      "asafoetida",
+      "black peppercorn",
+      "black salt",
+      "coriander seed",
+      "cumin seed"
+    ],
+    "expected_recipe": "Jaljeera",
+    "actual_recipe_ingredients": [
+      "asafoetida",
+      "black peppercorn",
+      "black salt",
+      "coriander seed",
+      "cumin seed",
+      "dry mango powder",
+      "ice cub",
+      "lemon juice",
+      "mint leav",
+      "rock salt",
+      "sugar"
+    ]
+  },
+  {
+    "user_ingredients": [
+      "asafoetida",
+      "black peppercorn",
+      "black salt"
+    ],
+    "expected_recipe": "Jaljeera",
+    "actual_recipe_ingredients": [
+      "asafoetida",
+      "black peppercorn",
+      "black salt",
+      "coriander seed",
+      "cumin seed",
+      "dry mango powder",
+      "ice cub",
+      "lemon juice",
+      "mint leav",
+      "rock salt",
+      "sugar"
+    ]
+  },
+  {
+    "user_ingredients": [
+      "asafoetida",
+      "black salt",
+      "cumin seed",
+      "ice cub",
+      "mint leav",
+      "sugar"
+    ],
+    "expected_recipe": "Jaljeera",
+    "actual_recipe_ingredients": [
+      "asafoetida",
+      "black peppercorn",
+      "black salt",
+      "coriander seed",
+      "cumin seed",
+      "dry mango powder",
+      "ice cub",
+      "lemon juice",
+      "mint leav",
+      "rock salt",
+      "sugar"
+    ]
+  },
+  {
+    "user_ingredients": [
+      "-sugar",
+      "chilled water",
+      "ice cub",
+      "ice cub needed"
+    ],
+    "expected_recipe": "Nimbu Pani",
+    "actual_recipe_ingredients": [
+      "-sugar",
+      "chilled water",
+      "ice cub",
+      "ice cub needed",
+      "lemon",
+      "medium sized lemon",
+      "salt",
+      "sugar"
+    ]
+  },
+  {
+    "user_ingredients": [
+      "-sugar",
+      "chilled water"
+    ],
+    "expected_recipe": "Nimbu Pani",
+    "actual_recipe_ingredients": [
+      "-sugar",
+      "chilled water",
+      "ice cub",
+      "ice cub needed",
+      "lemon",
+      "medium sized lemon",
+      "salt",
+      "sugar"
+    ]
+  },
+  {
+    "user_ingredients": [
+      "-sugar",
+      "ice cub",
+      "lemon",
+      "salt"
+    ],
+    "expected_recipe": "Nimbu Pani",
+    "actual_recipe_ingredients": [
+      "-sugar",
+      "chilled water",
+      "ice cub",
+      "ice cub needed",
+      "lemon",
+      "medium sized lemon",
+      "salt",
+      "sugar"
+    ]
+  },
+  {
+    "user_ingredients": [
+      "butter",
+      "cashew",
+      "cashew paste",
+      "chicken",
+      "chili powder",
+      "cream",
+      "cumin"
+    ],
+    "expected_recipe": "Butter Chicken",
+    "actual_recipe_ingredients": [
+      "butter",
+      "cashew",
+      "cashew paste",
+      "chicken",
+      "chili powder",
+      "cream",
+      "cumin",
+      "garam masala",
+      "ginger garlic paste",
+      "oil",
+      "onion",
+      "salt",
+      "tomato",
+      "turmeric",
+      "yogurt"
+    ]
+  },
+  {
+    "user_ingredients": [
+      "butter",
+      "cashew",
+      "cashew paste",
+      "chicken",
+      "chili powder"
+    ],
+    "expected_recipe": "Butter Chicken",
+    "actual_recipe_ingredients": [
+      "butter",
+      "cashew",
+      "cashew paste",
+      "chicken",
+      "chili powder",
+      "cream",
+      "cumin",
+      "garam masala",
+      "ginger garlic paste",
+      "oil",
+      "onion",
+      "salt",
+      "tomato",
+      "turmeric",
+      "yogurt"
+    ]
+  },
+  {
+    "user_ingredients": [
+      "butter",
+      "cashew paste",
+      "chili powder",
+      "cumin",
+      "ginger garlic paste",
+      "onion",
+      "tomato",
+      "yogurt"
+    ],
+    "expected_recipe": "Butter Chicken",
+    "actual_recipe_ingredients": [
+      "butter",
+      "cashew",
+      "cashew paste",
+      "chicken",
+      "chili powder",
+      "cream",
+      "cumin",
+      "garam masala",
+      "ginger garlic paste",
+      "oil",
+      "onion",
+      "salt",
+      "tomato",
+      "turmeric",
+      "yogurt"
+    ]
+  },
+  {
+    "user_ingredients": [
+      "cumin",
+      "ginger garlic paste",
+      "kidney bean"
+    ],
+    "expected_recipe": "Rajma Masala",
+    "actual_recipe_ingredients": [
+      "cumin",
+      "ginger garlic paste",
+      "kidney bean",
+      "onion",
+      "spic",
+      "tomato",
+      "turmeric"
+    ]
+  },
+  {
+    "user_ingredients": [
+      "cumin",
+      "ginger garlic paste"
+    ],
+    "expected_recipe": "Rajma Masala",
+    "actual_recipe_ingredients": [
+      "cumin",
+      "ginger garlic paste",
+      "kidney bean",
+      "onion",
+      "spic",
+      "tomato",
+      "turmeric"
+    ]
+  },
+  {
+    "user_ingredients": [
+      "cumin",
+      "kidney bean",
+      "spic",
+      "turmeric"
+    ],
+    "expected_recipe": "Rajma Masala",
+    "actual_recipe_ingredients": [
+      "cumin",
+      "ginger garlic paste",
+      "kidney bean",
+      "onion",
+      "spic",
+      "tomato",
+      "turmeric"
+    ]
+  },
+  {
+    "user_ingredients": [
+      "cumin",
+      "eggplant",
+      "green chili",
+      "mustard oil"
+    ],
+    "expected_recipe": "Baingan Bharta",
+    "actual_recipe_ingredients": [
+      "cumin",
+      "eggplant",
+      "green chili",
+      "mustard oil",
+      "oil",
+      "onion",
+      "spic",
+      "tomato"
+    ]
+  },
+  {
+    "user_ingredients": [
+      "cumin",
+      "eggplant"
+    ],
+    "expected_recipe": "Baingan Bharta",
+    "actual_recipe_ingredients": [
+      "cumin",
+      "eggplant",
+      "green chili",
+      "mustard oil",
+      "oil",
+      "onion",
+      "spic",
+      "tomato"
+    ]
+  },
+  {
+    "user_ingredients": [
+      "cumin",
+      "green chili",
+      "oil",
+      "spic"
+    ],
+    "expected_recipe": "Baingan Bharta",
+    "actual_recipe_ingredients": [
+      "cumin",
+      "eggplant",
+      "green chili",
+      "mustard oil",
+      "oil",
+      "onion",
+      "spic",
+      "tomato"
+    ]
+  }
+]
