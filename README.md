@@ -54,13 +54,13 @@ A perfect tool for:
 ![Home](images/home.png)
 
 ### 🥗 Recipes Exploration Page 
-![Recipe List](images/recipe_list.png)
+![Recipe List](images/recipes_list.png)
 
 ### 🧂 Ingredient Input  
-![Input Page](images/input.png)
+![Input Page](images/ingredient_input.png)
 
 ### 📄 Recommended Recipe Details  
-![Recipe Details](images/details.png)
+![Recipe Details](images/result.png)
 
 ---
 
@@ -146,5 +146,6 @@ Email: kanishkawani52@gmail.com
 🍳 Crafted with passion by Kanishka Wani
 
 </div> ```
+
 
 
