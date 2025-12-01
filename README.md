@@ -67,7 +67,7 @@ A perfect tool for:
 ## 🎥 Demo Video
 
 <p align="center">
-  <a href="[https://www.youtube.com/watch?v=YOUR_VIDEO_LINK](https://youtu.be/xN0vvrhbIII?si=aC-GI_9AaOgfzi1m)" target="_blank">
+  <a href="https://youtu.be/xN0vvrhbIII?si=GBg1UoLpOuLqGyCh" target="_blank">
     <img src="images/home.png" alt="Demo Video" width="500"/>
   </a>
 </p>
@@ -146,6 +146,7 @@ Email: kanishkawani52@gmail.com
 🍳 Crafted with passion by Kanishka Wani
 
 </div> ```
+
 
 
 
